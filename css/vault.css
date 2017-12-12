@@ -1,0 +1,39 @@
+@charset "UTF-8";
+#carousel1 {
+	margin-top: -21px;
+}
+.col-lg-offset-1.col-lg-4 {
+	text-align: center;
+	margin-top: 30px;
+}
+.row .col-lg-4.col-lg-offset-1 h1 {
+}
+.row .col-lg-4.col-lg-offset-1 {
+	background-color: #73C5B8;
+	margin-top: 49px;
+}
+footer {
+	text-align: center;
+	background-color: #73C5B8;
+	font-family: "Museo Sans 500", "Museo Sans 500 Italic", "Museo Sans 300 Italic";
+}
+.item.active .carousel-caption h3 {
+	font-variant: normal;
+	text-align: center;
+	font-size: 57px;
+	font-weight: 900;
+	margin-left: -0;
+	color: #FFFFFF;
+	text-shadow: 0px 3px #000000;
+}
+.navbar.navbar-default {
+	background-color: #73C5B8;
+}
+.col-lg-4.col-lg-offset-1 {
+}
+.navbar-brand {
+	background-image: url(../images/logo_vault.svg);
+	background-repeat: no-repeat;
+	background-position: 50% 51%;
+	background-size: contain;
+}
